@@ -21,3 +21,6 @@ pip install -r requirements.txt
 8. Update the main.py
 9. Update the dvc.yaml
 10. app.py
+
+# deployment
+# docker,aws,ci/cd pipeline 
